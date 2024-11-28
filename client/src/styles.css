@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'pbold';
+    src: url('/client-app/url-shortner-app/src/assets/TTF/Poppins-Bold.ttf') format('ttf');
+    font-weight: bold;
+  }
+.pbold{
+    font-family: pbold;
+}
+
+@font-face {
+    font-family: 'plight';
+    src: url('/client-app/url-shortner-app/src/assets/TTF/Poppins-Light.ttf') format('ttf');
+    font-weight: 100;
+  }
+.plight{
+    font-family: plight;
+}
+ 
