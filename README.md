@@ -1,3 +1,6 @@
+Make a .env in the server folder and add
+- CONNECTION_STRING="MongoDB URL"
+
 To setup the URL shortener
 - cd server
 - npm install
